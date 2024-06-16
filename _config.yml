@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ningquan's Personal Homepage"
+title                    : "Ningquan's Homepage"
 title_separator          : "-"
 name                     : &name "Ningquan Gu"
 description              : &description "personal description"
