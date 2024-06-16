@@ -3,10 +3,10 @@ main:
   # - title: "Publications"
   #   url: /publications/
   - name: Bio
-    url: /
+    url: /about/
 
   - title: "Publications"
-    url: /#Publication
+    url: /about/#Publications
 
   # - title: "Talks"
   #   url: /talks/    
