@@ -24,9 +24,9 @@ author:
   avatar           : "guningquan_photo.png"
   name             : "Ningquan Gu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A Robotics Researcher"
   location         : "Yancheng China"
-  employer         : "Graduate from Wuhan "
+  employer         : "Graduate from Wuhan Textile University"
   uri              : # URL
   email            : "guningquan@outlook.com" 
 
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
